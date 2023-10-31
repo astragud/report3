@@ -1,2 +1,2 @@
 # TRee(Linked & Array)
-![](./img/result.png)
+![](./result3.png)
